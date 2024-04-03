@@ -25,7 +25,7 @@ image:
 ```c++
 //代码片段
 int main(){
-  hello world;
+  printf("hello world");
 }
 ```
 
